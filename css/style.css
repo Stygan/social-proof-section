@@ -169,8 +169,10 @@ header p {
     .anne {
         transform: translateY(0px);
     }
+
     .row-top {
         justify-content: center;
+        width: 400px;
     }
 
     .row-bottom {
@@ -183,6 +185,10 @@ header p {
     
     .reviews {
         transform: translateX(0px);
+    }
+
+    .stars {
+        margin-left: 0;
     }
 
 }
